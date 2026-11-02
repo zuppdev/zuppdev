@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="t">
+  <title id="t">I build iOS apps for wellbeing and accessibility.</title>
+  <style>
+    text { font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 60px; font-weight: 600; letter-spacing: -0.9px; }
+  </style>
+  <text x="0" y="62" fill="#f0f6fc">I build iOS apps</text>
+  <text x="0" y="136" fill="#9198a1">for wellbeing and accessibility.</text>
+</svg>
